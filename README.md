@@ -16,6 +16,6 @@ This is a Youtube Video Downloader developed using Python.<br>
   <img src="./example.PNG">
   <li>Paste the youtube video url in the field.</li>
   <li>Create a root folder in your desktop where all the videos will be downloaded.</li>
-  <li>Click on Download.The download starts and after completing shows you successful message.</li>
+  <li>Click on Download.The download starts and after completing shows you 'successful' message.</li>
   </ol>
 
