@@ -1,13 +1,13 @@
 # Youtube-Video-Downloader
-This is a Youtube Video Downloader developed using Python.
-##MODULES REQUIRED
+This is a Youtube Video Downloader developed using Python.<br>
+## MODULES REQUIRED<br>
 <ol>
   <li>Pytube</li>
   <li>Tkinter</li>
  </ol><br>
  Use `pip install pytube3` to install pytube.Tkinetr is a default installed in python.
  <br>
- ##STEPS TO RUN THE APPLICATION
+ ## STEPS TO RUN THE APPLICATION<br>
  <ol>
   <li>Download the zip file of this repository.</li>
   <li>Run the app.py file.</li>
