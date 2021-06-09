@@ -13,7 +13,7 @@ This is a Youtube Video Downloader developed using Python.<br>
   <li>Download the zip file of this repository.</li>
   <li>Run the app.py file.</li>
   <li>The youtube video downloader application opens up as shown in the image below.</li>
-  <img src="">
+  <img src="./example.PNG">
   <li>Paste the youtube video url in the field.</li>
   <li>Create a root folder in your desktop where all the videos will be downloaded.</li>
   <li>Click on Download.The download starts and after completing shows you successful message.</li>
